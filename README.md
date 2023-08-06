@@ -7,7 +7,7 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 Ferramemteiro, programador de máquinas de usinagem em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, a resposta será que programar é uma terapia para minha mente, por mais irônica que seja essa frase, é real. 
+- 🔭 Ferramenteiro, programador de máquinas de usinagem em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, a resposta será que programar é uma terapia para minha mente, por mais irônica que seja essa frase, é real. 
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 <ul align="justify">
@@ -80,26 +80,17 @@
   <a style="margin-right: 15px;" href="https://www.discord.com/channels/gabriel_vanzo" target="_blank">
     <img width="115px" alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.youtube.com/c/warfighters/" target="_blank">
-    <img width="115px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a style="margin-right: 15px;" href="https://steamcommunity.com/id/Lucky_skyier/" target="_blank">
-    <img width="98px" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
-  <a style="margin-right: 15px;" href="https://store.epicgames.com/pt-BR/u/8c85b46cd09f404cbd31ca774a7a8d44" target="_blank">
-    <img width="135px" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
-  </a>
 
 ## GitHub Stats
 <table>
 <tr><td>
-<a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulomichielin&show_icons=true&theme=blue-green" />
+<a href="https://github.com/GabrielVanzo/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielVanzo&show_icons=true&theme=blue-green" />
   </a>
 </td><td>
-  <a href="https://github.com/saulomichielin/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" style=plastic&logo=appveyor src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomichielin&layout=compact&theme=blue-green" />
+  <a href="https://github.com/GabrielVanzo/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" style=plastic&logo=appveyor src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVanzo&layout=compact&theme=blue-green" />
   </a>
  </table>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SauloMichielin&label=Views&color=blue&style=plastic" alt="SauloMichielin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GabrielVanzo&label=Views&color=blue&style=plastic" alt="GabrielVanzo" /> </p>
