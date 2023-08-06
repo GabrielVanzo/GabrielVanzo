@@ -7,16 +7,14 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 Engenheiro de Controle e automação e Técnico em Eletrotécnica em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que me divirto quando estou programando. 
+- 🔭 Ferramemteiro, programador de máquinas de usinagem em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, a resposta será que programar é uma terapia para minha mente, por mais irônica que seja essa frase, é real. 
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 <ul align="justify">
-  <li>🎮 Sou fã de <strong>jogos de RPG (PC e console)</strong>, principalmente MMORPG, <strong>estrátegia</strong> e <strong>jogos de construção</strong> particularmente me atraem mais.</li>
-  <li>🏊‍♀️ Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>nadar</strong> e <strong>gravar vídeos</strong> no <a style="margin-right: 15px;" href="https://www.youtube.com/c/warfighters/" target="_blank">
-    <img width="100px" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> com meu <strong>filho incrível</strong>.</li>  
+  <li>🎮 Sou fã de <strong>jogos (PC e console)</strong>, principalmente FIFA, <strong>jogos de estrátegia</strong> e <strong>jogos de construção</strong> particularmente me atraem.</li>
+  <li>🏊‍♀️ Algumas das coisas que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>assistir</strong> e <strong>passear</strong> com minha <strong>família incrível</strong>.</li>  
   <li>💻 Quando se trata de <strong>Back-end</strong>, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Utilização de <strong>MySQL</strong> e <strong>Sequelize</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
-  <li>📱 Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>, para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>.</li>
+  <li>📱 Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>, para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>, também gosto de contar com o <strong>React Hooks</strong>.</li>
 </ul>
 
 
@@ -73,13 +71,13 @@
 </div>
 
 ## Meus Contatos
-  <a style="margin-right: 15px;" href="mailto:saulomichielin@gmail.com" target="_blank">
+  <a style="margin-right: 15px;" href="mailto:gabriel.vanzo98@gmail.com" target="_blank">
     <img width="95px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/saulo-michielin-dev/" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabrielvanzo-dev/" target="_blank">
     <img width="120px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.discord.com/channels/Saulo9439" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.discord.com/channels/gabriel_vanzo" target="_blank">
     <img width="115px" alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a style="margin-right: 15px;" href="https://www.youtube.com/c/warfighters/" target="_blank">
