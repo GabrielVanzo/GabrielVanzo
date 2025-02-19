@@ -2,12 +2,12 @@
 
 - Cursando 3º semestre em Engenharia de Software na faculdade Estácio. Tenho um background na área, que será ampliado ao longo dessa jornada. 
 
-## Algumas coisas que são indispensáveis na minha vida 🤔
+## Algumas coisas que fazem parte da minha vida 🤔
 <ul align="justify">
   <li>🎮 Sou fã de <strong>jogos (PC e console)</strong>, principalmente FIFA, <strong>jogos de estrátegia</strong> e <strong>jogos de construção</strong> particularmente me atraem.</li>
-  <li>🏊‍♀️ Algumas das coisas que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>assistir</strong> e <strong>passear</strong> com minha <strong>família incrível</strong>.</li>  
-  <li>💻 Quando se trata de <strong>Back-end</strong>, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Utilização de <strong>MySQL</strong> e <strong>Sequelize</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
-  <li>📱 Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>, para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>, também gosto de contar com o <strong>React Hooks</strong>.</li>
+  <li>🏊‍♀️ Algumas das coisas que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>assistir</strong> e <strong>passear</strong> com minha <strong>esposa e filhos</strong>.</li>  
+  <li>💻 Quando se trata de <strong>Back-end</strong>, compreendo sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Programação desenvolvida atrvés do <strong>TypeScript</strong>. Utilização de <strong>MySQL</strong> e <strong>Sequelize</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
+  <li>📱 Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React.Js</strong> ou <strong>Next.Js</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Para gerenciamento de estados gosto de utilizar o <strong>Redux</strong>, também gosto de contar com o <strong>React Hooks</strong>.</li>. E para garantir <strong>organização</strong>, <strong>manutenibilidade</strong> e <strong>legibilidade</strong>, opto pelos <strong>Styleds Components</strong> em conjunto com a biblioteca <strong>Chakra-Ui</strong>, uma vez que facilitam toda a estrutura.
 </ul>
 
 
