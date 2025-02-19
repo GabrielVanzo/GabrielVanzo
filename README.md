@@ -1,13 +1,6 @@
 # Hi there 👋 I'm Gabriel Vanzo
 
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-- 🔭 Ferramenteiro, programador de máquinas de usinagem em Transição de carreira para atuar como Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, a resposta será que programar é uma terapia para minha mente, por mais irônica que seja essa frase, é real. 
+- Cursando 3º semestre em Engenharia de Software na faculdade Estácio. Tenho um background na área, que será ampliado ao longo dessa jornada. 
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 <ul align="justify">
