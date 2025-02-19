@@ -1,6 +1,14 @@
 # Hi there 👋 I'm Gabriel Vanzo
 
-- Cursando 3º semestre em Engenharia de Software na faculdade Estácio. Tenho um background na área, que será ampliado ao longo dessa jornada. 
+- <b>Desenvolvedor Fullstack</b> com sólida experiência em desenvolvimento web, formado pela Trybe.
+  
+- Possuo experiência prática desde a concepção até a implementação de aplicações, incluindo arquitetura, desenvolvimento de front-end e back-end, além da integração com bancos de dados.
+  
+- Atuei como Desenvolvedor Fullstack na Mix MKT, sendo responsável por todo o ciclo de desenvolvimento de sistemas.
+  
+- Atualmente, trabalho como Desenvolvedor Front-End Júnior na Iclouds, onde sou responsável pela interface e experiência do usuário em aplicações web. Também tenho participações no desenvolvimento Back-End, sendo responsável pela integração das aplicações web com o banco de dados.
+  
+- Estou cursando Engenharia de Software na faculdade Estácio (3º semestre), buscando aprofundar meus conhecimentos e aprimorar minhas habilidades técnicas e arquiteturais no desenvolvimento de software.
 
 ## Algumas coisas que fazem parte da minha vida 🤔
 <ul align="justify">
