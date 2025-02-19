@@ -2,13 +2,13 @@
 
 - <b>Desenvolvedor Fullstack</b> com sólida experiência em desenvolvimento web, formado pela Trybe.
   
-- Possuo experiência prática desde a concepção até a implementação de aplicações, incluindo arquitetura, desenvolvimento de front-end e back-end, além da integração com bancos de dados.
+- Possuo <b>experiência prática</b> desde a concepção até a implementação de aplicações, incluindo arquitetura, desenvolvimento de <b>front-end</b> e <b>back-end</b>, além da <b>integração com bancos de dados</b>.
   
-- Atuei como Desenvolvedor Fullstack na Mix MKT, sendo responsável por todo o ciclo de desenvolvimento de sistemas.
+- Atuei como <b>Desenvolvedor Fullstack Júnior</b> na Mix MKT, sendo responsável por todo o ciclo de desenvolvimento de sistemas.
   
-- Atualmente, trabalho como Desenvolvedor Front-End Júnior na Iclouds, onde sou responsável pela interface e experiência do usuário em aplicações web. Também tenho participações no desenvolvimento Back-End, sendo responsável pela integração das aplicações web com o banco de dados.
+- Atualmente, trabalho como <b>Desenvolvedor Front-End Júnior</b> na Iclouds, onde sou responsável pela interface e experiência do usuário em aplicações web. Também tenho participações no desenvolvimento Back-End, sendo responsável pela integração das aplicações web com o banco de dados.
   
-- Estou cursando Engenharia de Software na faculdade Estácio (3º semestre), buscando aprofundar meus conhecimentos e aprimorar minhas habilidades técnicas e arquiteturais no desenvolvimento de software.
+- Estou cursando <b>Engenharia de Software</b> na faculdade Estácio (3º semestre), buscando aprofundar meus conhecimentos e aprimorar minhas habilidades técnicas e arquiteturais no desenvolvimento de software.
 
 ## Algumas coisas que fazem parte da minha vida 🤔
 <ul align="justify">
