@@ -79,6 +79,12 @@
 
 <h2>💼 Experience</h2>
 
+<h3>Frontend Engineer — Code & Soul</h3>
+
+<p align="justify">
+  Responsável pela evolução de um Design System enterprise com StencilJS, incluindo refatoração da CodeLib, otimização de performance, atualização de stack e integração com Storybook e Vue 3.
+</p>
+
 <h3>Fullstack Developer — Iclouds</h3>
 
 <p align="justify">
