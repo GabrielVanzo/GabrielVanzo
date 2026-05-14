@@ -30,9 +30,16 @@
 
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stenciljs/stenciljs-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</kbd>
+
+<kbd>
+  <kbd>🧩 Design System</kbd>
+  <br />
+  <br />
+
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stenciljs/stenciljs-original.svg" />
 </kbd>
 
 <kbd>
